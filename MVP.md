@@ -28,12 +28,21 @@ are integers between 0 and 255, Each
 
 ### The labels of the dataframe marked as follows:
 • 0 T-shirt/top
+
 • 1 Trouser
+
 • 2 Pullover
+
 • 3 Dress
+
 • 4 Coat
+
 • 5 Sandal
+
 • 6 Shirt
+
 • 7 Sneaker
+
 • 8 Bag
+
 • 9 Ankle boot
